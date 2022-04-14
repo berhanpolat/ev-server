@@ -29,7 +29,7 @@
   "CentralSystemRestService": {
     "protocol": "http",
     "host": "localhost",
-    "port": 80,
+    "port": 4200,
     "userTokenKey": "YourSecretKey",
     "userTokenLifetimeHours": 12,
     "userDemoTokenLifetimeDays": 365,
@@ -43,7 +43,7 @@
   "CentralSystemFrontEnd": {
     "protocol": "http",
     "host": "localhost",
-    "port": 80
+    "port": 4200
   },
   "OCPIService": {
     "protocol": "http",
@@ -60,7 +60,7 @@
   "CentralSystemServer": {
     "protocol": "http",
     "host": "localhost",
-    "port": 80
+    "port": 4200
   },
   "ODataService": {
     "protocol": "http",
